@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t eclipsepod:latest .
+docker build -t naturalselect/eclipsepod:latest .

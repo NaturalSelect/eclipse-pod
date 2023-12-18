@@ -18,4 +18,4 @@ docker run \
     --ipc host \
     -e HTTP_PROXY="" \
     -e HTTPS_PROXY="" \
-    "eclipsepod:latest"
+    "naturalselect/eclipsepod:latest"
